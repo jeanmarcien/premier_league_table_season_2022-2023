@@ -10,8 +10,7 @@ window.title('Premier League Table')
 table = ttk.Treeview(window)
 
 # Define columns for the table
-table['columns'] = ('name', 'gamesPlayed', 'wins', 'ties', 'losses', 'goalsFor', 'goalsAgainst', 'goalDifference',
-                    'points')
+table['columns'] = ('name', 'gamesPlayed', 'wins', 'ties', 'losses', 'goalsFor', 'goalsAgainst', 'goalDifference', 'points')
 
 # Format column headers
 table.heading('#0', text='Rank')
