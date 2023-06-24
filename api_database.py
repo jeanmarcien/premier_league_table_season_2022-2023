@@ -6,8 +6,8 @@ url = "https://premier-league-standings1.p.rapidapi.com/"
 
 # Headers with RapidAPI key and host
 headers = {
-    "X-RapidAPI-Key": "d5c307c9d2msh171b0eb139794dcp123df6jsnb413743e6dfe",
-    "X-RapidAPI-Host": "premier-league-standings1.p.rapidapi.com"
+    "X-RapidAPI-Key": "**************************************************",
+    "X-RapidAPI-Host": "****************************************"
 }
 
 # Make a GET request to the API
